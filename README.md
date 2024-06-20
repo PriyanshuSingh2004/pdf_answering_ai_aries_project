@@ -1,4 +1,4 @@
-It's Smart-Question Answering System on short as well as long documents. It can automatically find answers to matching questions directly from documents. The deep learning language model converts the questions and documents to semantic vectors to find the matching answer.<br>
+It's Pdf Answering ai System on short as well as long documents. It can automatically find answers to matching questions directly from documents. The deep learning language model converts the questions and documents to semantic vectors to find the matching answer.<br>
 <br>
 <br>
 Approches:<br><br>
